@@ -1,0 +1,49 @@
+---
+court: "United States Court of Appeals for the Eleventh Circuit"
+docket: "09-12954"
+decided: "2010-01-04"
+citations: ["360 F. App'x 4"]
+judges: ["Before EDMONDSON, BIRCH and FAY, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellant, v. John Gerone THOMAS, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/360/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3859056
+cites_cases: ["129 S.Ct. 2382", "144 F.3d 756", "173 L.Ed.2d 1300", "18 U.S.C. § 3553", "18 U.S.C. § 3582", "21 U.S.C. § 841", "530 F.3d 1358", "543 U.S. 220", "549 F.3d 1337", "552 U.S. 85", "556 F.3d 1190"]
+---
+
+# United States v. Thomas
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellant, v. John Gerone THOMAS, Defendant-Appellee.
+No. 09-12954
+Non-Argument Calendar.
+United States Court of Appeals, Eleventh Circuit.
+Jan. 4, 2010.
+Judy K. Hunt, United States Attorney’s Office, Tampa, FL, for Plaintiff-Appellant.
+Leonard Evans Clark, Federal Public Defender, Office of the Federal Public Defender, Tampa, FL, Frank William Zarem-ba, Federal Public Defender, Assistant Federal Public Defender, Fort Myers, FL, for Defendant-Appellee.
+Before EDMONDSON, BIRCH and FAY, Circuit Judges.
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+The government appeals the district court’s grant of John Gerone Thomas’s 18 U.S.C. § 3582(c)(2) motion to reduce sentence. The government argues that the district court lacked discretion to depart below the 10-year mandatory minimum sentence required by 21 U.S.C. § 841(b)(l)(A)(iii). For the reasons set forth below, we vacate Thomas’s sentence and remand to the district court.
+I.
+Pursuant to a written plea agreement, Thomas pled guilty to possession with intent to distribute 50 grams or more of crack cocaine. The presentence investigation report (“PSI”) initially set Thomas’s base offense level at 38, under U.S.S.G. § 2Dl.l(c)(l), because Thomas’s offense involved 4 kilograms of crack cocaine. After applying a 2-point enhancement under § 2Dl.l(b)(l), (possession of a weapon during the offense), and a 3-level reduction under §§ 3El.l(a) and (b), (acceptance of responsibility), Thomas’s total offense level was set at 37. Thomas’s four criminal history points placed him in criminal history category III. His offense level of 37 combined with criminal history category III to yield a guideline imprisonment range of 262 to 327 months. Pursuant to 21 U.S.C. § 841(b)(1)(A), Thomas was subject to a mandatory minimum of 10 years’ imprisonment.
+At sentencing, the court granted the government’s U.S.S.G. § 5K1.1 motion for a 4-level departure and then departed an additional 2 levels, reducing Thomas’s offense level to 31 and his guideline imprisonment range to 135 to 168 months. The court sentenced Thomas to 135 months’ imprisonment, to be followed by 5 years’ supervised release.
+On January 29, 2009, the district court, sua sponte, appointed a public defender to represent Thomas, ordered the probation office to complete a supplemental report addressing whether Thomas was eligible for a sentence reduction under § 3582(c)(2) and Amendment 706, and ordered Thomas and the government to file responses to the probation officer’s supplemental report.
+The government responded that Amendment 706 reduced Thomas’s original offense level of 37 to 35 and his original guideline imprisonment of 262 to 327 months to 210 to 262 months. It asserted that, pursuant to § 1B1.10(b)(2)(B) and § 1B1.10, comment, (n.3), the court should recalculate Thomas’s total offense level, then apply a departure comparable to the one Thomas originally received as a result of the § 5K1.1 motion. The government noted that such a departure would result in an amended guideline range of 108 to 135 months, but it noted that Thomas was subject to a statutory mandatory minimum of 10 years’ (120 months) imprisonment. The government stated that it would not oppose a reduction to 120 months’ imprisonment.
+The district court issued an order reducing Thomas’s sentence to 100 months’ imprisonment. It noted that Thomas’s amended total offense level was 35, his criminal history category remained III, and his amended guideline imprisonment range was 210-262 months. The court explained that “[t]he previous term of imprisonment was less than the guideline range applicable to the defendant at the time of sentencing as a result of a departure or Rule 35 reduction and the reduced sentence is comparably less than the amended guideline range.”
+II.
+We review de novo issues of legal interpretation in the § 3582(c)(2) context. United States v. Williams, 549 F.3d 1337, 1338-39 (11th Cir.2008). A district court may modify a term of imprisonment in the case of a defendant who was sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission. 18 U.S.C. § 3582(c)(2).
+III.
+The district court correctly determined that Amendment 706 lowered Thomas’s applicable guideline range. Because Thomas’s guideline range was based on § 2D1.1, Amendment 706 reduced Thomas’s original base offense level from 38 to 36, his total offense level from 37 to 35, and his original guideline imprisonment range from 262 to 327 months to 210 to 262 months. See U.S.S.G., App. C, Amend. 706 (amending U.S.S.G. § 2Dl.l(c)(l)). We now address whether the district court was authorized to reduce Thomas’s sentence as far as it did.
+Any sentence reduction granted pursuant to § 3582(c)(2) must be “consistent with applicable policy statements issued by the Sentencing Commission.” 18 U.S.C. § 3582(c)(2); see Williams, 549 F.3d at 1341 (stating that we “must treat such commentary [in the policy statements] as binding”). The applicable policy statement provides that “[i]f the original term of imprisonment imposed was less than the term of imprisonment provided by the guideline range applicable to the defendant at the time of sentencing, a reduction comparably less than the amended guideline range ... may be appropriate.” U.S.S.G. § lB1.10(b)(2)(B). The commentary also provides the following example:
+In a case in which: (A) the guideline range applicable to the defendant at the time of sentencing was 70 to 87 months; (B) the defendant’s original term of imprisonment imposed was 56 months (representing a downward departure of 20 percent below the minimum term of imprisonment provided by the guideline range applicable to the defendant at the time of sentencing); and (C) the amended guideline range ... is 57 to 71 months, a reduction to a term of imprisonment of 46 months (representing a reduction of approximately 20 percent below the minimum term of imprisonment provided by the amended guideline range ...) would amount to a comparable reduction and may be appropriate.
+U.S.S.G. § 1B1.10, comment, (n.3).
+Applying Application Note 3 to Thomas’s case, the lowest sentence Thomas could have received at resentencing would have been 108 months. Thomas’s original 135-month sentence represented a 48 percent departure from the 262-month low-end guideline sentence. Similarly, a 108-month sentence would represent a 48 percent departure from the 210-month low-end amended guideline sentence.
+More important than § 1B1.10, the statutory provision in 21 U.S.C. § 841 (b) (1) (A) (iii) requires that Thomas is subject to a 10-year, or 120-month, mandatory minimum sentence. See 21 U.S.C. § 841(b)(1)(A)(iii). Section 5K1.1 of the Guidelines states: “[u]pon motion of the government stating that the defendant has provided substantial assistance in the investigation or prosecution of another person who has committed an offense, the court may depart from the guidelines.” U.S.S.G. § 5K1.1. Although a § 5K1.1 motion permits a court to depart from the guidelines, we have held that a § 5K1.1 motion does not effectively waive the statutory minimum to allow a district court to grant a § 3582 reduction below that statutory minimum. See Williams, 549 F.3d at 1339 (holding that the district court was not permitted to grant the defendant a § 3582 sentence reduction where the defendant had originally been sentenced below the statutory minimum, because the statutory minimum, which effectively became the defendant’s “guideline range,” was not reduced by Amendment 706). Under Williams, the district court was not authorized to reduce Thomas’s sentence below the applicable statutory minimum, even though the government filed a § 5K1.1 motion at the original sentencing proceeding.
+We also note that binding precedent also forecloses any argument that Booker and Kimbrough permit district courts to ignore statutory minimum sentences in § 3582 proceedings. See United States v. Melvin, 556 F.3d 1190, 1192-93 (11th Cir.) (holding that Booker and Kimbrough apply to original sentencing proceedings and do “not address motions to reduce a sentence under § 3582(c)(2)”), cert. denied, — U.S. -, 129 S.Ct. 2382, 173 L.Ed.2d 1300 (2009); see also United States v. Castaing-Sosa, 530 F.3d 1358, 1362 (11th Cir.2008) (holding that “the district court remains bound by statutes designating mandatory minimum sentences even after the remedial holding of [Booker T). Finally, although the government did not raise the issue on appeal, the district court abused its discretion in failing to state that it had considered the 18 U.S.C. § 3553(a) sentencing factors in determining the extent of Thomas’s sentence reduction. See United States v. Vautier, 144 F.3d 756, 760 (11th Cir.1998) (stating that a district court must consider the § 3553(a) factors to determine whether, and to what extent, to lower a defendant’s sentence). Accordingly, we vacate Thomas’s sentence and remand to the district court.
+VACATED AND REMANDED.
+. United States v. Booker, 543 U.S. 220, 125 S.Ct. 738, 160 L.Ed.2d 621 (2005).
+. Kimbrough v. United States, 552 U.S. 85, 128 S.Ct. 558, 169 L.Ed.2d 481 (2007).
