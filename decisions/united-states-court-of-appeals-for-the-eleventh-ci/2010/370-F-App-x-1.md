@@ -1,0 +1,29 @@
+---
+court: "United States Court of Appeals for the Eleventh Circuit"
+docket: "09-14561"
+decided: "2010-02-25"
+citations: ["370 F. App'x 1"]
+judges: ["Before BLACK, CARNES and MARCUS, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Gregorio GARCIA, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/370/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4139770
+cites_cases: ["386 U.S. 738"]
+---
+
+# United States v. Garcia
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Gregorio GARCIA, Defendant-Appellant.
+No. 09-14561
+Non-Argument Calendar.
+United States Court of Appeals, Eleventh Circuit.
+Feb. 25, 2010.
+John Philip Fox, Adams, Hemingway & Wilson, LLP, Macon, GA, for Defendant-Appellant.
+Before BLACK, CARNES and MARCUS, Circuit Judges.
+
+## Majority (PER CURIAM:)
+
+PER CURIAM:
+John Philip Fox, appointed counsel for Gregorio Garcia in this direct criminal appeal, has moved to withdraw from further representation of the appellant and filed a brief pursuant to Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967). Our independent review of the entire record reveals that counsel’s assessment of the relative merit of the appeal is correct. Because independent examination of the entire record reveals no arguable issues of merit, counsel’s motion to withdraw is GRANTED, Garcia’s motion to proceed pro se is DENIED, and his conviction and sentence are AFFIRMED.
