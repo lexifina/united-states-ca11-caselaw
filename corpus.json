@@ -6,7 +6,7 @@
   "language": "en",
   "kind": "judgments",
   "history": "in-force",
-  "coverage": "40381 published opinions with text, one file and one commit each, dated the day decided; 2732 citations of the US Code linked to united-states/federal/usc.",
+  "coverage": "56171 published opinions with text, one file and one commit each, dated the day decided; 2732 citations of the US Code linked to united-states/federal/usc.",
   "history_from": "1981-11-03",
   "record_to": "2026-11-06",
   "checked_on": "2026-11-06",
@@ -25,5 +25,14 @@
   "overlay": {
     "path": "judgments/united-states/federal/usc/<title>/<section>.jsonl",
     "law_corpus": "united-states/federal/usc"
-  }
+  },
+  "appended": [
+    {
+      "on": "2026-11-08",
+      "decisions": 752,
+      "source": "Caselaw Access Project bulk data (static.case.law)",
+      "reporters": "F. App'x, F.3d, F.2d, B.R., Am. Tribal Law, U.S.",
+      "head_matter": "left out (the publisher's text)"
+    }
+  ]
 }
